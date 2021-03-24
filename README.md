@@ -8,9 +8,11 @@ Meu nome é Fabiano. Sou Professor da PUC Minas, Poços de Caldas.
 
 # Interesses
 
-:exclamation: Cloud Computing
-:exclamation: Edge Computing
-:exclamation: Mobilidade Elétrica
+:heavy_check_mark: Cloud Computing
+
+:heavy_check_mark: Edge Computing
+
+:heavy_check_mark: Mobilidade Elétrica
 
 # Principais projetos
 
