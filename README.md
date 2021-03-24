@@ -1,7 +1,16 @@
 ### :smile: Olá pessoal!!!! 
 
 Meu nome é Fabiano. Sou Professor da PUC Minas, Poços de Caldas.
-Formado em Ciência da Computação (PUC Minas), também sou mestre (UNICAMP) e doutor (USP).
+
+:man_student: Bacharel em Ciência da Computação pela PUC Minas (2004)
+:man_student: Mestre em Ciência da Computação pela UNICAMP (2006)
+:man_student: Doutor em Ciências pela USP (2012)
+
+# Interesses
+
+:exclamation: Cloud Computing
+:exclamation: Edge Computing
+:exclamation: Mobilidade Elétrica
 
 # Principais projetos
 
